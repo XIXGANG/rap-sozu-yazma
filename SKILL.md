@@ -11,7 +11,7 @@ Bu dosyayı rap sözü yazma, geliştirme ve düzenleme isteklerinde ana çalı�
 
 Bu beceri hazırlandığında Codex'te erişilebilen eski rap sohbetlerinde kullanıcının kendi sözleri veya beğenip onayladığı taslaklar bulunamadı; yalnızca rap yaptığı ve söz yazmakta zorlandığını söylediği görüldü. Bu not başka platformlardaki sohbetleri kapsamaz. Her zaman bulunduğun platformda erişilebilir geçmişi ve kullanıcının verdiği dosyaları kullan; erişemediğin bir konuşmayı hatırlıyormuş gibi davranma.
 
-Kullanıcı sözlerini ve onun için üretilmiş taslakları ayırt ederek aşağıdaki günlüğü güncelle. Platform yüklenen bilgi dosyasını otomatik düzenleyemiyorsa kalıcı kayıt yaptığını iddia etme; örnekleri mevcut sohbette kullan ve gerektiğinde dosyaya eklenebilecek güncel günlük veya kısa tarz profili metni hazırla.
+Aşağıdaki günlüğü yalnızca kullanıcı kalıcı bir kayıt istediğinde ve bu ortam dosyayı güncellemeye izin verdiğinde kullan. Kullanıcının kendi sözleriyle asistanın ürettiği veya kullanıcının açıkça onayladığı taslakları ayrı kaydet. Platform dosyayı düzenleyemiyorsa kalıcı kayıt yapıldığını iddia etme; erişilebilir sohbet bağlamını kullan ve gerektiğinde günlüğe eklenebilecek metni hazırla.
 
 ---
 
@@ -24,7 +24,7 @@ Kullanıcının verdiği tema, duygu, anlatıcı, dil, alt tür, tempo ve biçim
 - Yazmaya başlamadan önce mevcut konuşmada ve erişilebilir geçmişte kullanıcının gönderdiği sözleri, onayladığı taslakları ve düzeltmelerini ara. Erişilemiyorsa bunu varsayma veya hatırlıyormuş gibi davranma.
 - Kullanıcının kendi yazdığı sözleri, yalnızca yazılmasını istediği asistan taslaklarını ve özellikle beğenip sahiplendiği taslakları birbirinden ayır. Bunlardan dil, anlatıcı, imge, tema, argo düzeyi, kafiye yoğunluğu, bar uzunluğu, akış ve kaçınılması istenen kalıplar için kısa bir tercih profili çıkar.
 - Bu beceriyi tek bir örneğe aşırı uydurma. Tekrarlanan tercihleri ve kullanıcının açık düzeltmelerini ağırlıklandır; yeni talimat eski tercihin önüne geçer.
-- Kullanıcı, kendisinin gönderdiği rap sözlerini ve kendisi için yazmamı istediği sözleri gelecekte de hatırlamamı açıkça istedi. Bu devam eden talimat kapsamında, erişilebilir olduğunda kendi gönderdiği sözleri ve bu istek doğrultusunda üretilen sözleri aşağıdaki **Kullanıcı Sözleri Günlüğü** bölümüne kaydet. Kaynağı, tarih/istek bağlamını ve varsa geri bildirimi ayır; asistanın yazdığı sözleri kullanıcı eseri veya beğenilmiş diye etiketleme. Kullanıcı bunların kendisine ait olduğunu belirtmedikçe başkasının yayımlanmış şarkı sözlerini onun eseri olarak kaydetme. Günlüğe aktarırken sözleri değiştirme.
+- Kalıcı bir söz günlüğü tutmayı yalnızca kullanıcı bunu açıkça istediğinde ve bulunduğun platform kayıt olanağı sunduğunda uygula. Böyle bir istek varsa, erişilebilir olduğunda kullanıcının gönderdiği sözleri ve kullanıcı için üretilen taslakları aşağıdaki **Kullanıcı Sözleri Günlüğü** bölümüne kaydet. Kaynağı, tarih/istek bağlamını ve varsa geri bildirimi ayır; asistanın yazdığı sözleri kullanıcı eseri veya beğenilmiş diye etiketleme. Kullanıcı bunların kendisine ait olduğunu belirtmedikçe başkasının yayımlanmış şarkı sözlerini onun eseri olarak kaydetme. Günlüğe aktarırken sözleri değiştirme.
 
 ## Yazım yaklaşımı
 
@@ -153,7 +153,7 @@ Erişilebilen geçmişte kullanıcının kendi yazdığı rap sözleri, belirli 
 
 ## Yeni kayıt ekleme
 
-Kullanıcı kendi gönderdiği rap sözlerini ve kendisi için yazılmasını istediği sözleri hatırlamamı açıkça istedi. Erişilebilir olduğunda bu iki tür metni de aşağıdaki biçimde kaydet. Kullanıcının verdiği metni aynen koru; kaynağı, tarih/istek bağlamını ve varsa geri bildirimi ayır. Asistanın yazdığı sözleri kullanıcı eseri veya kullanıcı tarafından beğenilmiş diye etiketleme; olumlu geri bildirim ancak açıkça verildiyse kaydet. Başkasına ait olduğu belirtilen yayımlanmış sözleri kullanıcının eseri gibi kaydetme.
+Kalıcı söz günlüğü tutma isteği kullanıcıdan kullanıcıya değişebilir. Yalnızca kullanıcı açıkça istediğinde ve platform kayıt dosyasını güncelleyebildiğinde erişilebilir sözleri aşağıdaki biçimde kaydet. Kullanıcının verdiği metni aynen koru; kaynağı, tarih/istek bağlamını ve varsa geri bildirimi ayır. Asistanın yazdığı sözleri kullanıcı eseri veya kullanıcı tarafından beğenilmiş diye etiketleme; olumlu geri bildirim ancak açıkça verildiyse kaydet. Başkasına ait olduğu belirtilen yayımlanmış sözleri kullanıcının eseri gibi kaydetme.
 
 ### Kayıt biçimi
 
